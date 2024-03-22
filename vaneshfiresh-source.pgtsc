@@ -1,0 +1,10 @@
+{
+  "Scripts": [
+    {
+      "Name": "cds",
+      "Description": "This program create a chat window, allows to send text messages, uses ServerSocket <-> Socket connection",
+      "Resources": "https://github.com/SkyWalker0929/skywalker-library/raw/main/resourses/ConsoleDataSender.zip",
+      "InitialScript": "java -jar CDS.jar"
+    },
+  ]
+}
