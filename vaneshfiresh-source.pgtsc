@@ -1,10 +1,16 @@
 {
   "Scripts": [
     {
-      "Name": "cds",
-      "Description": "This program create a chat window, allows to send text messages, uses ServerSocket <-> Socket connection",
-      "Resources": "https://github.com/SkyWalker0929/skywalker-library/raw/main/resourses/ConsoleDataSender.zip",
-      "InitialScript": "java -jar CDS.jar"
+      "Name": "fnf",
+      "Description": "Friday night funkin",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/yNMvcJGOFIowRg",
+      "InitialScript": "@echo off && start Funkin.exe && @echo on"
+    },
+    {
+      "Name": "hl",
+      "Description": "Half-life",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/x0OOLaOvw2-ysw",
+      "InitialScript": "@echo off && start hl.exe && @echo on"
     },
   ]
 }
