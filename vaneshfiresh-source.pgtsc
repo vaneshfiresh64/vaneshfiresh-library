@@ -12,5 +12,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/x0OOLaOvw2-ysw",
       "InitialScript": "@echo off && start hl.exe && @echo on"
     },
+    {
+      "Name": "sonic",
+      "Description": "Sonic mania plus",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/u8itB2nIjYrwNA",
+      "InitialScript": "@echo off && start SonicMania.exe && @echo on"
+    },
   ]
 }
