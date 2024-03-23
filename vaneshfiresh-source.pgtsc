@@ -24,5 +24,11 @@
       "Resources": "https://clck.ru/32kM7E",
       "InitialScript": "@echo off && call minecraft_start.bat && @echo on"
     },
+    {
+      "Name": "gd",
+      "Description": "Geometry dash 2.2",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CwSG0gJNMpjSpg",
+      "InitialScript": "@echo off && start GeometryDash.exe && @echo on"
+    },
   ]
 }
