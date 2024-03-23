@@ -22,7 +22,7 @@
       "Name": "minecraft",
       "Description": "Minecraft Portable 1.12.2",
       "Resources": "https://clck.ru/32kM7E",
-      "InitialScript": "@echo off && start installer.bat && @echo on"
+      "InitialScript": "@echo off && call minecraft_start.bat && @echo on"
     },
   ]
 }
