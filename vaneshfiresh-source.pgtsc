@@ -30,5 +30,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CwSG0gJNMpjSpg",
       "InitialScript": "@echo off && start GeometryDash.exe && @echo on"
     },
+    {
+      "Name": "ngo",
+      "Description": "Needy Girl Overdose. СТРАШИЛКА ХЕНТАЙ НЕ СКАЧИВАТЬ",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/R0xRaYd3sCNFmg",
+      "InitialScript": "@echo off && start Windose.exe && @echo on"
+    },
   ]
 }
