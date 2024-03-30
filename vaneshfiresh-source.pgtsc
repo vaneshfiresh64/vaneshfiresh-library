@@ -39,8 +39,8 @@
     {
       "Name": "steamps",
       "Description": "Steam Portable",
-      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/wcw7dX7cbYxlVg",
-      "InitialScript": "@echo off && start SteamPortable_4.93.26.78.paf.exe && @echo on"
+      "Resources": "https://raw.githubusercontent.com/mnd0929/piget-library/main/resources/SteamPortable.zip",
+      "InitialScript": "@echo off && start SteamPortable.exe && @echo on"
     },
   ]
 }
