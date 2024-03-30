@@ -36,5 +36,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/R0xRaYd3sCNFmg",
       "InitialScript": "@echo off && start Windose.exe && @echo on"
     },
+    {
+      "Name": "steamps",
+      "Description": "Steam Portable",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/wcw7dX7cbYxlVg",
+      "InitialScript": "@echo off && start SteamPortable_4.93.26.78.paf.exe && @echo on"
+    },
   ]
 }
