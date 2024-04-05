@@ -54,5 +54,11 @@
       "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/OnR_rZRn2WkJuQ",
       "InitialScript": "@echo off && start osu.exe && @echo on"
     },
+    {
+      "Name": "tin",
+      "Description": "tin",
+      "Resources": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/OidPipjRl8yceA",
+      "InitialScript": "@echo off && start tin.exe && @echo on"
+    },
   ]
 }
